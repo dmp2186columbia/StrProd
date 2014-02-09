@@ -1,4 +1,4 @@
-ylabel('Base Rate')
+format long
 
 b1 = (0.1:0.1:1);
 a1= b1;
